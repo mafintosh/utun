@@ -1,7 +1,7 @@
 {
   "name": "utun",
   "version": "0.0.0",
-  "description": "Create a utun interface from node",
+  "description": "Create a utun (userspace network tunnel) interface from node",
   "main": "index.js",
   "gypfile": true,
   "dependencies": {

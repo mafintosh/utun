@@ -1,10 +1,12 @@
 # utun
 
-Create a utun interface from node
+Create a utun (userspace network tunnel) interface from node
 
 ```
 npm install utun
 ```
+
+[![build status](http://img.shields.io/travis/mafintosh/utun.svg?style=flat)](http://travis-ci.org/mafintosh/utun)
 
 ## Usage
 
