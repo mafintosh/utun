@@ -1,0 +1,24 @@
+{
+  "name": "utun",
+  "version": "0.0.0",
+  "description": "Create a utun interface from node",
+  "main": "index.js",
+  "gypfile": true,
+  "dependencies": {
+    "mutexify": "^1.1.0",
+    "nan": "^2.0.4"
+  },
+  "devDependencies": {
+    "ip-packet": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/utun.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/utun/issues"
+  },
+  "homepage": "https://github.com/mafintosh/utun"
+}
