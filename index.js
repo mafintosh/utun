@@ -1,7 +1,5 @@
-var ip = require('ip-packet')
 var mutexify = require('mutexify')
 var utun = require('./build/Release/utun')
-var net = require('net')
 var fs = require('fs')
 var proc = require('child_process')
 var events = require('events')
